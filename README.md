@@ -1,6 +1,6 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Ezra Onyinkwa</h1>
-<h3 align="center">Am a dedicated data analyst with a passion for turning raw data into meaningful insights. Skilled in utilizing Excel, Power BI ,SQL and Python Server to uncover insights from raw data to drive business decisions.</h3>
+<h3 align="center">Am a dedicated data analyst with a passion for turning raw data into meaningful insights. Skilled in utilizing Excel, Power BI ,SQL Server and Python to uncover insights from raw data to drive business decisions.</h3>
 
 <img align="right" alt="sqlcoding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lydGhsd2U1OHNoaXczb2t2MTRhcGdueGJsZXp2NHF3YTM5dmtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -12,11 +12,11 @@
 
 - 📫 How to reach me **ezraonyinkwa001@outlook.com**
 
-- ⚡ Fun fact **I am an introvert**
+- ⚡ Fun fact **I Will always give my 100% in everything I do **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Ezra Onyinkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezra onyinkwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ezra-Onyinkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezra onyinkwa" height="30" width="40" /></a>
 <a href="https://medium.com/@ezraonyinkwa001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ezraonyinkwa001" height="30" width="40" /></a>
 </p>
 
