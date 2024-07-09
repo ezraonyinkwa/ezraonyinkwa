@@ -4,7 +4,7 @@
 
 <img align="right" alt="sqlcoding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lydGhsd2U1OHNoaXczb2t2MTRhcGdueGJsZXp2NHF3YTM5dmtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Data Scraping**
+- 🔭 I’m currently working on **Building Predictive Models**
 
 - 🌱 I’m currently learning **python (Programming Language)**
 
