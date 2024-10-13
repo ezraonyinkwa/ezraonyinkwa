@@ -1,12 +1,12 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Ezra Onyinkwa</h1>
-<h3 align="center">Am a dedicated data analyst with a passion for turning raw data into meaningful insights. Skilled in utilizing Excel, Power BI ,SQL Server and Python to uncover insights from raw data to drive business decisions.</h3>
+<h3 align="center">Am a dedicated data analyst/data scientist with a passion for turning raw data into meaningful insights. Skilled in utilizing Excel, Power BI ,SQL Server and Python to uncover insights from raw data to drive business decisions.</h3>
 
 <img align="right" alt="sqlcoding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lydGhsd2U1OHNoaXczb2t2MTRhcGdueGJsZXp2NHF3YTM5dmtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **Building Predictive Models**
 
-- 🌱 I’m currently learning **python (Programming Language)**
+- 🌱 I’m currently learning **python (Programming Language) & Machine learning**
 
 - 💬 Ask me about **Microsoft Sql Server, Power BI, Excel, Python**
 
