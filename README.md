@@ -24,7 +24,7 @@
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Data Visualization Tools:</h3>
-<img src ="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" width="40" height="40"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" width="40" height="40"><img src =""https://www.pinterest.com/pin/51650726970139509/](https://assets.pinterest.com/ext/embed.html?id=51650726970139509" width="40" height="40"> 
+<img src ="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" width="40" height="40"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" width="40" height="40"><img src ="https://www.insightplatforms.com/platforms/google-looker-studio/" width="40" height="40"> 
 
 <h3 align="left">Python IDE</h3>
 <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="40"height="40">
