@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ezraonyinkwa001@outlook.com**
 
-- ⚡ Fun fact **I Will always give my 100% in everything I do **
+- ⚡ Fun fact **I Will always give my 100% in everything I do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
