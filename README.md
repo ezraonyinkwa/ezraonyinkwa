@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **ezraonyinkwa001@gmail.com**
 
-- ⚡ Fun fact ****Fun Fact:**  
-I’m naturally drawn to challenges because solving problems with my data analysis skills feels like cracking the ultimate code—it’s as satisfying as solving a mystery!**
+- ⚡ Fun fact **I’m naturally drawn to challenges because solving problems with my data analysis skills feels like cracking the ultimate code—it’s as satisfying as solving a mystery!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
