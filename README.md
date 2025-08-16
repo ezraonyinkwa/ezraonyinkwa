@@ -1,6 +1,6 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Ezra Onyinkwa</h1>
-<h3 align="center">Welcome to my page!
+<h3 align="center"><br>Welcome to my page!</br>
 Here, you’ll find all my Python code and SQL queries from personal projects I’ve worked on. These projects showcase my ability to clean, analyze, and visualize data, as well as apply problem-solving skills to real-world scenarios.
 
 I’ve included end-to-end workflows—from raw data preparation and transformation in SQL to advanced analysis, automation, and visualization in Python. My goal is to demonstrate not only technical proficiency but also how I approach data challenges to generate actionable insights.</h3>
