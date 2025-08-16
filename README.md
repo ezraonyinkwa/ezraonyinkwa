@@ -1,6 +1,9 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Ezra Onyinkwa</h1>
-<h3 align="center">Am a dedicated data analyst/data scientist with a passion for turning raw data into meaningful insights. Skilled in utilizing Excel, Power BI ,SQL Server and Python to uncover insights from raw data to drive business decisions.</h3>
+<h3 align="center">Welcome to my page!
+Here, you’ll find all my Python code and SQL queries from personal projects I’ve worked on. These projects showcase my ability to clean, analyze, and visualize data, as well as apply problem-solving skills to real-world scenarios.
+
+I’ve included end-to-end workflows—from raw data preparation and transformation in SQL to advanced analysis, automation, and visualization in Python. My goal is to demonstrate not only technical proficiency but also how I approach data challenges to generate actionable insights.</h3>
 
 <img align="right" alt="sqlcoding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lydGhsd2U1OHNoaXczb2t2MTRhcGdueGJsZXp2NHF3YTM5dmtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
