@@ -11,7 +11,7 @@ I’ve included end-to-end workflows—from raw data preparation and transformat
 
 - 💬 Ask me about **Data Analysis & Analytics Engineering**
 
-- 📫 How to reach me **ezraonyinkwa001@gmail.com or +254768038877**
+- 📫 How to reach me **ezraonyinkwa001@gmail.com**
 
 - ⚡ Fun fact **I’m naturally drawn to challenges because solving problems with my data analysis skills feels like cracking the ultimate code—it’s as satisfying as solving a mystery!**
 
