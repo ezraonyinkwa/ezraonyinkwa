@@ -7,13 +7,11 @@ I’ve included end-to-end workflows—from raw data preparation and transformat
 
 <img align="right" alt="sqlcoding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lydGhsd2U1OHNoaXczb2t2MTRhcGdueGJsZXp2NHF3YTM5dmtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Building Predictive Models**
+- 🔭 I’m currently open to  **Remote or Hybrid Roles**
 
-- 🌱 I’m currently learning **python (Programming Language) & Machine learning**
+- 💬 Ask me about **Data Analysis & Analytics Engineering**
 
-- 💬 Ask me about **Microsoft Sql Server, Power BI, Excel, Python**
-
-- 📫 How to reach me **ezraonyinkwa001@gmail.com**
+- 📫 How to reach me **ezraonyinkwa001@gmail.com or +254768038877**
 
 - ⚡ Fun fact **I’m naturally drawn to challenges because solving problems with my data analysis skills feels like cracking the ultimate code—it’s as satisfying as solving a mystery!**
 
